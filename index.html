@@ -21,25 +21,29 @@
     const rootNode = document.getElementById("app");
     const root = ReactDOM.createRoot(rootNode);
     root.render(
-        <div style={{ background: 'linear-gradient(to bottom, #CA0F91, #B280FE)' }}>
-            <h1>InStories</h1>
-            <p>by Ingini</p>
-			
-			<div class="login">
-				<p> Логин </p>
-				<input/>
+		<div class="parent" style={{ background: 'linear-gradient(to bottom, #CA0F91, #B280FE)' }>
+			<div class="div1">
+				<h1>InStories</h1>
+				<p>by Ingini</p>
 			</div>
-			<div class="passwr">
-				<p> Пароль </p>
-				<input/>
+			<div class="div2">
+				<div class="login">
+					<p> Логин </p>
+					<input/>
+				</div>
+				<div class="passwr">
+					<p> Пароль </p>
+					<input/>
+				</div>
 			</div>
-
-			<button> Войти</button>
-			
-			<button> Зарегистрироваться </button>
-			<button> Войти через google </button>
-			
-        </div>
+			<div class="div3">
+				<button> Войти</button>
+			</div>
+			<div class="div4">
+				<button> Зарегистрироваться </button>
+				<button> Войти через google </button>
+			</div>
+		</div>
     );
    </script>
 </body>
