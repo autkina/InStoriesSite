@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Italiana&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.logoText {
+    font-family: Italiana, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 48pt;
+}
+
+.logoButton {
+    font-family: Istok Web, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 27pt;
+}
+
+.body {
+    background-color: #161519;
+}
+
+.PersOpenButton {
+    font-family: Istok Web, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24pt;
+    color: white;
+    background-color: #B280FE;
+    height: 67px;
+}
