@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InStoriesSite/static/css/main.28cba871.css",
+    "main.js": "/InStoriesSite/static/js/main.762b9f39.js",
+    "index.html": "/InStoriesSite/index.html",
+    "main.28cba871.css.map": "/InStoriesSite/static/css/main.28cba871.css.map",
+    "main.762b9f39.js.map": "/InStoriesSite/static/js/main.762b9f39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28cba871.css",
+    "static/js/main.762b9f39.js"
+  ]
+}
